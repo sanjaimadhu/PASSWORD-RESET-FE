@@ -51,7 +51,7 @@ To run the project locally:
 
 1. Clone the repository:(https://github.com/sanjaimadhu/PASSWORD-RESET-FE)
 Back End code :
-https://github.com/Vijayarajvijay/Password-Reset-BE
+(https://github.com/sanjaimadhu/PASSWORD-RESET-BE/tree/main)
 
 2. Navigate to the project directory and install 
 dependencies: npm install
