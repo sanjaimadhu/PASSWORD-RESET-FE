@@ -49,7 +49,7 @@ The project focuses on providing a secure and user-friendly system for managing 
 
 To run the project locally:
 
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-FE
+1. Clone the repository:(https://github.com/sanjaimadhu/PASSWORD-RESET-FE)
 Back End code :
 https://github.com/Vijayarajvijay/Password-Reset-BE
 
